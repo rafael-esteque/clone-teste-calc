@@ -29,7 +29,7 @@ function resetaContador() {
 //FUNÇÕES DO EXERCÍCIO 4://
 function aplicaOriginal() {
     let imagem = document.getElementById('tyrion');
-    imagem.src = "./img/tyrion.jpg";
+    imagem.src = "./img/tyrion.JPG";
 }
 
 function aplicaPB() {
